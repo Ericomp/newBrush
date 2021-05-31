@@ -32,8 +32,7 @@ function draw() {
 }
 
 function mousePressed() {
-
-  fill(random(255), 10, 80);
+  fill(random(100), 10, 80);
   rect(0, 0, windowWidth, windowHeight);
 
 }
